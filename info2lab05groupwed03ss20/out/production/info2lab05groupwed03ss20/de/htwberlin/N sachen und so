@@ -1,0 +1,45 @@
+für N = 1
+fragment 1 runtime: 1100 nanoseconds or: 0 milliseconds
+fragment 2 runtime: 600 nanoseconds or: 0 milliseconds
+fragment 3 runtime: 500 nanoseconds or: 0 milliseconds
+fragment 4 runtime: 600 nanoseconds or: 0 milliseconds
+fragment 5 runtime: 800 nanoseconds or: 0 milliseconds
+fragment 6 runtime: 500 nanoseconds or: 0 milliseconds
+fragment 7 runtime: 300 nanoseconds or: 0 milliseconds
+
+für N = 5
+fragment 1 runtime: 1200 nanoseconds or: 0 milliseconds
+fragment 2 runtime: 1300 nanoseconds or: 0 milliseconds
+fragment 3 runtime: 1000 nanoseconds or: 0 milliseconds
+fragment 4 runtime: 700 nanoseconds or: 0 milliseconds
+fragment 5 runtime: 3900 nanoseconds or: 0 milliseconds
+fragment 6 runtime: 1200 nanoseconds or: 0 milliseconds
+fragment 7 runtime: 28700 nanoseconds or: 0 milliseconds
+
+für N = 10
+fragment 1 runtime: 1300 nanoseconds or: 0 milliseconds
+fragment 2 runtime: 2900 nanoseconds or: 0 milliseconds
+fragment 3 runtime: 2000 nanoseconds or: 0 milliseconds
+fragment 4 runtime: 900 nanoseconds or: 0 milliseconds
+fragment 5 runtime: 55600 nanoseconds or: 0 milliseconds
+fragment 6 runtime: 2700 nanoseconds or: 0 milliseconds
+fragment 7 runtime: 436800 nanoseconds or: 0 milliseconds
+
+für N = 100
+fragment 1 runtime: 5200 nanoseconds or: 0 milliseconds
+fragment 2 runtime: 216100 nanoseconds or: 0 milliseconds
+fragment 3 runtime: 110900 nanoseconds or: 0 milliseconds
+fragment 4 runtime: 4500 nanoseconds or: 0 milliseconds
+fragment 5 runtime: 4088200 nanoseconds or: 4 milliseconds
+fragment 6 runtime: 91400 nanoseconds or: 0 milliseconds
+fragment 7 runtime: 24116300 nanoseconds or: 24 milliseconds
+
+für N = 1000
+fragment 1 runtime: 21900 nanoseconds or: 0 milliseconds
+fragment 2 runtime: 3786100 nanoseconds or: 3 milliseconds
+fragment 3 runtime: 3576900 nanoseconds or: 3 milliseconds
+fragment 4 runtime: 43300 nanoseconds or: 0 milliseconds
+fragment 5 runtime: 49906000 nanoseconds or: 49 milliseconds
+fragment 6 runtime: 3291600 nanoseconds or: 3 milliseconds
+fragment 7 runtime: 169913758700 nanoseconds or: 169913 milliseconds
+
